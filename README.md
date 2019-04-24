@@ -1,1 +1,1 @@
-Feature visualization a CNN trained on Google SVHN dataset 
+Feature visualization for a CNN trained on Google SVHN dataset 
